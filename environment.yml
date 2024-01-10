@@ -1,0 +1,18 @@
+name: me_kribaat
+channels:
+ - defaults
+dependencies:
+ - python=3.9.13
+ - pip
+ - pip:
+   - streamlit
+   - streamlit_cards
+   - streamlit_lottie
+   - streamlit_timeline
+   - llama-index
+   - llama-cpp-python
+   - nltk
+   - sentence-transformers
+   - langchain
+   - pillow
+   - requests
